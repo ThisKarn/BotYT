@@ -9,7 +9,8 @@ import platform
 import requests
 from colorama import Fore, init
 
-intro = """ Scriptking SCK
+intro = """ Scriptking SCK 
+ กดติดตามช่องกูซ่ะ
 """
 
 print(intro)
@@ -48,7 +49,7 @@ class proxy():
 
     def update(self):
         while True:
-            url = "https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=10000&country=all&ssl=yes&anonymity=all"
+            url = "=https://raw.githubusercontent.com/scriptkingSCK/YTautolive/master/proxy.txtall&ssl=yes&anonymity=all"
             r = requests.get(url)
 
             self.splited = r.text.split("\r\n") #scraping and splitting proxies
