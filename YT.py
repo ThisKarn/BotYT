@@ -87,13 +87,13 @@ def bot():
             s.get(url,headers=headers,proxies=proxy1.FormatProxy()) #stream request
             s.get(url2,headers=headers,proxies=proxy1.FormatProxy()) #api request
 
-            a.botted += 1
+           a.botted += 1
         except:
             pass
 
 
 time.sleep(7)
-maxthreads = int(input("ใส่ยอดที่ต้องการ: 500 - 1000\n"))
+maxthreads = int(input("ใส่เทรด: 500 - 1000\n"))
 
 threading.Thread(target=a.printservice).start()
 num = 0
