@@ -49,7 +49,7 @@ class proxy():
 
     def update(self):
         while True:
-            url = "=https://raw.githubusercontent.com/scriptkingSCK/YTautolive/master/proxy.txtall&ssl=yes&anonymity=all"
+            url = "http://proxy-daily.com/proxy/getproxymanual.php?limit=50000&filter=socks4"
             r = requests.get(url)
 
             self.splited = r.text.split("\r\n") #scraping and splitting proxies
