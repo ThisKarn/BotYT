@@ -76,10 +76,10 @@ def bot():
 
         headers={
         "Host": "m.youtube.com",
-        "Accept-Encoding": "gzip, deflate",
-        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,/;q=0.8",
-        "Accept-Language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Encoding": "gzip, deflategzip, deflate, brgzip, deflate, br",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+        "Accept-Language": "th-TH,th;q=0.9,en;q=0.8",
         "Connection": "close"
         }
 
