@@ -1,6 +1,12 @@
 # YTautolive
 ScriptKing SCK
 
+    
+                 <b1> UPdate api new Proxy </b1>
+
+
+
+
   ขั้นตอนการติดตั้งใน Termux
   
   pkg install pyhton
