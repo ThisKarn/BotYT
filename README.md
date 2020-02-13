@@ -36,3 +36,5 @@ ScriptKing SCK
   
 
 /
+
+((  ไอดีวิดีโอไฟล์สดตัวอย่าง https://youtu.be/JTpAnQCjFpc คัดลอกแค่ JTpAnQCjFpc ))
