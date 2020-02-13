@@ -2,7 +2,7 @@
 ScriptKing SCK
 
     
-                 <H1> UPdate api new Proxy </H1>
+                 <> UPdate api new Proxy <>
 
 
 
