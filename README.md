@@ -25,14 +25,9 @@ ScriptKing SCK
   
   chmod +x *
   
-  
-  pip install requests
-  
-  
-  pip install colorama
-  
-  
-  python YT.py
+ bash set.sh
+ 
+  bash menu.sh
   
 
    <H1> แฮ่มมม เทรดคือPortน่ะครับ จะใส่ 8080 80 3128 แล้วแต่เลยจนกว่าเทรดนั้นจะหยุด </> 
