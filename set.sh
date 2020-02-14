@@ -3,7 +3,7 @@ pip install requests
 
   pip install colorama
   
-  echo "เปิดพิม bash menu.sh"
+  echo "เปิดพิม Enter1ครั้ง"
   read a6
 bash menu.sh
   
