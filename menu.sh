@@ -45,7 +45,7 @@ chmod +x YTautolive.sh
 fi
 echo -e "\e[1;32m กดEnter ยืนยันอัพเดท"
 read a6
-./menu.sh
+bash menu.sh
 exit
 elif [ $ch -eq 3 ];then
 clear
