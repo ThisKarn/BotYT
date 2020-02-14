@@ -18,7 +18,7 @@ echo -e "\e[4;32m   YouTube: https://www.youtube.com/c/Scriptking SCK \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
-echo "⬜ 1 To  ยิงSMS "
+echo "⬜ 1 To  ปั้มAutoLive"
 echo "⬜ 2 To  อัพเดท (Works On Linux And Linux Emulators) "
 echo "⬜ 3 To  View Features "
 echo "⬜ 4 To  Exit "
@@ -43,7 +43,7 @@ rm update.sck >> temp
 rm temp
 chmod +x YTautolive.sh
 fi
-echo -e "\e[1;32m รีสตาร์.."
+echo -e "\e[1;32m กดEnter ยืนยันอัพเดท"
 read a6
 ./menu.sh
 exit
