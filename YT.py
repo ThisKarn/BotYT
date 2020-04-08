@@ -49,7 +49,7 @@ class proxy():
 
     def update(self):
         while True:
-            url = "http://proxy.emirem-anime.online/proxy.html"
+            url = "https://api.proxyscrape.com?request=getproxies&proxytype=http&timeout=5000&country=US&anonymity=elite&ssl=yes"
             r = requests.get(url)
 
             self.splited = r.text.split("\r\n") #scraping and splitting proxies
