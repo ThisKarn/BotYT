@@ -15,11 +15,11 @@ ScriptKing SCK
   pkg install git   
   
   
-  git clone https://github.com/scriptkingSCK/YTautolive
+  git clone https://github.com/ThisKarn/BotYT.git
   
   
   
-  cd YTautolive
+  cd BotYT
   
   
   
