@@ -33,7 +33,7 @@ elif [ $ch -eq 2 ];then
 clear
 apt install git -y
 echo -e "\e[1;34m ดาวโหลดอัพเดท..."
-git clone https://github.com/scriptkingSCK/YTautolive
+git clone https://github.com/ThisKarn/BotYTV2.git
 if [[ -s YTautolive/YTautolive.sh ]];then
 cd YTautolive
 cp -r -f * .. > temp
